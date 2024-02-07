@@ -1,3 +1,4 @@
+
 <h1 align="center">
   Lógica de Programação e Algoritmos -1° Semestre de 2024 
 </h1>
@@ -7,4 +8,7 @@
 
 ## Cronograma 
 - [x] Aula 04 - Introdução ao Github (07/02/2024)
-   - Criação do prfil no Github   
+   - Criação do prfil no Github  
+
+
+PALMEIRAS É UM BANDO DE PALHAÇO  
